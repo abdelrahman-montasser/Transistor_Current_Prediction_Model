@@ -22,7 +22,7 @@ This deep learning model is designed to predict the current of MOS transistors b
 
 The project is structured as follows:
 
-- `/data`: Contains dataset files.
+
 - `/models`: Stores trained machine learning models.
 - `/notebooks`: Jupyter notebook for model development.
 - `requirements.txt`: Project dependencies.
