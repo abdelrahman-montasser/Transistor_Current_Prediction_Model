@@ -45,8 +45,8 @@ To set up the project environment, follow these steps:
 We employ a Deep neural network with multiple layers for predicting MOS transistor current. The architecture includes:
 
 - Input layer
-- Hidden layers with LeakyReLU activation
-- Output layer with linear activation
+- Hidden layers with ReLU activation
+- Output layer with ReLU activation
 
 ## Training Process
 
